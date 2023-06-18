@@ -1,0 +1,14 @@
+# ###
+# GET http://localhost:5000/sample
+
+###
+GET http://localhost:5000/runperceptron
+
+# # CREATE SAMPLE DATA
+# ###
+# POST http://localhost:5000/sample
+# Content-Type: application/json
+
+# {
+#     "harta": 1.2, "utang": 0.3, "status": ""
+# }
